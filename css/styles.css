@@ -7,6 +7,7 @@ body {
 
 .container {
   border: 1px solid hsl(204, 43%, 93%);
+  border-radius: 15px;
   margin: 7%;
   width: 50%;
   margin-left: auto;
@@ -35,12 +36,11 @@ h5 {
 
 .join {
   background-color: white;
-  padding: 5%;
+  padding: 5% 10%;
 }
 
 .join h5 {
   color: hsl(71, 73%, 54%);
-  font-weight: 700;
 }
 
 .join p {
@@ -50,7 +50,7 @@ h5 {
 .pricing {
   background-color: hsl(179, 62%, 43%);
   color: white;
-  padding: 5%;
+  padding: 5% 10%;
 }
 
 span {
@@ -69,7 +69,7 @@ span {
 .why {
   background-color: #4ABEBD;
   color: white;
-  padding: 5%;
+  padding: 5% 10%;
 }
 ul {
   list-style-type: none;
