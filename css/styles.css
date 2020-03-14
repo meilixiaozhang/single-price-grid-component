@@ -1,0 +1,77 @@
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  background-color: #E6EFF6;
+  margin: 0;
+}
+
+.container {
+  border: 1px solid hsl(204, 43%, 93%);
+  margin: 7%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+h4 {
+  color: hsl(179, 62%, 43%);
+  font-family: Karla;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+h5 {
+  font-weight: 700;
+}
+
+.join {
+  background-color: white;
+  padding: 5%;
+}
+
+.join h5 {
+  color: hsl(71, 73%, 54%);
+  font-weight: 700;
+}
+
+.join p {
+  color: hsl(218, 22%, 67%);
+}
+
+.pricing {
+  background-color: hsl(179, 62%, 43%);
+  color: white;
+  padding: 5%;
+}
+
+span {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.pricing p {
+  line-height: 1.5;
+}
+
+.btn {
+  background-color: hsl(71, 73%, 54%);
+}
+
+.why {
+  background-color: #4ABEBD;
+  color: white;
+  padding: 5%;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
