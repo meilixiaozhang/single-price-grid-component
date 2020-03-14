@@ -35,7 +35,7 @@ h5 {
 
 .join {
   background-color: white;
-  padding: 5% 10%;
+  padding: 6%;
   border-radius: 15px 15px 0 0;
 }
 
@@ -50,7 +50,7 @@ h5 {
 .pricing {
   background-color: hsl(179, 62%, 43%);
   color: white;
-  padding: 5% 10%;
+  padding: 6%;
   border-radius: 0 0 0 15px;
 }
 
@@ -70,7 +70,7 @@ span {
 .why {
   background-color: #4ABEBD;
   color: white;
-  padding: 5% 10%;
+  padding: 6%;
   border-radius: 0 0 15px 0;
 }
 
